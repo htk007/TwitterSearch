@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/HASAN/Desktop/Hasan/2015%20FALL/Mobil%20Programlama/BIL_466%20Twitter%20APP/edu.bil466.SearchTwitter/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="light_orange">#0f90</color>
+    <!-- From: file:/C:/Users/HASAN/Desktop/Hasan/2015%20FALL/Mobil%20Programlama/BIL_466%20Twitter%20APP/edu.bil466.SearchTwitter/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/HASAN/Desktop/Hasan/2015%20FALL/Mobil%20Programlama/BIL_466%20Twitter%20APP/edu.bil466.SearchTwitter/app/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="editButtonWidth">60dp</dimen>
+    <dimen name="tagButtonWidth">200dp</dimen>
+    <!-- From: file:/C:/Users/HASAN/Desktop/Hasan/2015%20FALL/Mobil%20Programlama/BIL_466%20Twitter%20APP/edu.bil466.SearchTwitter/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="OK">OK</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SearchTwitter</string>
+    <string name="cancel">Cancel</string>
+    <string name="clearTags">Clear Tags</string>
+    <string name="delete">Delete</string>
+    <string name="deleteAllAlertMessage">This will delete all of your saved searches.</string>
+    <string name="deleteAllAlertTitle">Are You Sure?</string>
+    <string name="edit">Edit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="missingAlertMessage">Please enter a search query and write a tag for it.</string>
+    <string name="missingAlertTitle">Missing Text</string>
+    <string name="queryPrompt">Enter Twitter search query here</string>
+    <string name="save">Save</string>
+    <string name="searchURL">http://search.twitter.com/search?q=</string>
+    <string name="tagPrompt">Tag your query</string>
+</resources>

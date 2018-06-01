@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SearchTwitter</string>
+    <string name="hello_world">Merhaba Dünya</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="save">Kaydet</string>
+    <string name="searchURL">http://search.twitter.com/search?q=</string>
+    <string name="queryPrompt">Twitter arama sorgusunu giriniz</string>
+    <string name="tagPrompt">Sorgunuza etiket giriniz</string>
+    <string name="edit">Güncelle</string>
+    <string name="clearTags">Etiketleri siliniz</string>
+    <string name="missingAlertTitle">Eksik Metin</string>
+    <string name="missingAlertMessage">Lütfen sorgunuzu ve etiketi giriniz.</string>
+    <string name="deleteAllAlertTitle">Emin misiniz?</string>
+    <string name="deleteAllAlertMessage">Tüm kaydedilmiş aramalarınız silinecektir.</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal</string>
+    <string name="OK">Tamam</string>
+</resources>
